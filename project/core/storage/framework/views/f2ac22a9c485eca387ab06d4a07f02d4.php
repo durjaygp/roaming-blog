@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/vhosts/kelimelodi.com/new.kelimelodi.com/core/resources/views/frontEnd/includes/partielResult.blade.php ENDPATH**/ ?>

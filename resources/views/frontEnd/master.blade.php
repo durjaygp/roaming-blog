@@ -1,20 +1,18 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 <head>
-
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta http-equiv="x-ua-compatible" content="IE=edge">
     <meta name="description"
           content="{{$website->description}}">
     <meta name="keywords"
-          content="{{$website->keywords}}" />
+          content="{{$website->keywords}}"/>
     <meta property="og:title" content="{{$website->name}}">
     <meta property="og:description"
           content="{{$website->description}}">
     <meta property="og:image" content="{{$website->website_logo}}">
     <meta property="og:url" content="{{$website->url}}">
     <link rel="icon" href="{{asset($website->fav_icon)}}" type="image/x-icon">
-
    <!-- Font Imports -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
